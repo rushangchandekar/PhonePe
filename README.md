@@ -171,6 +171,6 @@ The dataset contains detailed transaction records with the following fields:
 
 ⭐ **If you found this project helpful, please give it a star!** ⭐
 
-*Made with 💜 by Rushang Chandekar(https://github.com/your-username)*
+*Made with 💜 by Rushang Chandekar*
 
 </div>
